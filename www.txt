@@ -1,3 +1,6 @@
+https://www.ionos.mx/digitalguide/servidores/know-how/comandos-de-docker/
+https://www.hostinger.mx/tutoriales/comandos-docker
+
 
 docker build -t python-test .
 docker run python-test
@@ -8,5 +11,8 @@ https://www.freecodecamp.org/espanol/news/guia-de-docker-para-principiantes-como
 https://www.oracle.com/mx/cloud/cloud-native/container-registry/what-is-docker/
 
 https://www.redhat.com/es/topics/containers/what-is-docker
+
+https://cerebro-digital.com/panel/knowledgebase/64/ExportarorImportar-contenedor-de-Docker-via-archivo-TAR.html
+
 
 
