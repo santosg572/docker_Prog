@@ -1,0 +1,7 @@
+https://www.freecodecamp.org/espanol/news/guia-de-docker-para-principiantes-como-crear-tu-primera-aplicacion-docker/
+
+https://www.oracle.com/mx/cloud/cloud-native/container-registry/what-is-docker/
+
+https://www.redhat.com/es/topics/containers/what-is-docker
+
+
