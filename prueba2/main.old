@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+
+import matplotlib as plt
+
+x = [1,2,3,4,5]
+
+xplt.plot(x)
+plt.show()
+
+print("¡Docker es mágico!--2")
+

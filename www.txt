@@ -1,3 +1,9 @@
+https://guias.donweb.com/instalar-docker-y-crear-un-contenedor-en-ubuntu-20-04/
+
+https://imaginaformacion.com/tutoriales/crear-contenedor-docker
+
+https://www.redhat.com/es/topics/containers/what-is-docker
+
 https://spectralops.io/blog/dockerfile-workdir-how-to-get-started-and-advanced-usage/
 
 
