@@ -1,6 +1,7 @@
 #!/bin/bash
 
-docker run -d -p 80:80 apache_image:1.0
+docker run -d -p 8080:80 apache_image2
+
 
 
 

@@ -1,5 +1,6 @@
 #!/bin/bash
 
-docker build -t apache_image:1.0 .
+docker build -t apache_image2 .
+
 
 
